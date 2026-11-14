@@ -66,7 +66,7 @@ var CONFIG = {
   },
 
   scrapTitle: "Kenangan kita",
-  social: { name: "andrian", handle: "@yourman", text: "Maafin aku ya, kangen kamu" },
+  social: { name: "Andrian", handle: "@yourman", text: "Maafin aku ya, akuu kangen kamu" },
 
   letterAnniv: {
     title: "Maafin aku, Sayang",
