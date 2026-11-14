@@ -13,7 +13,7 @@ var CONFIG = {
   music: "lagu.mp3",
 
   ask: {
-    title: "Maafin aku, ya cayangku",
+    title: "Maafin aku ya, cayangkuuu",
     yes: "MAAFIN", no: "GAMAU",
     noGone: "Tombol GAMAU nya udah aku buang."
   },
