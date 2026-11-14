@@ -17,7 +17,7 @@ var CONFIG = {
     yes: "MAAFIN", no: "GAMAU",
     noGone: "Tombol GAMAU nya udah aku buang."
   },
-  angry: ["Kok gituuu...", "Ihhh...", "Aku sedih beneran nih...", "Oke. GAMAU-nya aku buang. Maafin ya?"],
+  angry: ["Kok gituuu...", "Ihhh...", "BABYYY😠", "Oke. GAMAU-nya aku buang. Maafin ya?"],
   again: "COBA LAGI",
 
   /* Kalimat yang muncul saat karakter diketuk */
